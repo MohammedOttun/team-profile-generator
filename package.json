@@ -16,5 +16,8 @@
     "test"
   ],
   "author": "Mohammed Ottun",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
