@@ -1,0 +1,38 @@
+[
+  Manager {
+    name: 'Manager 1',
+    id: '10',
+    email: 'manager1@email.com',
+    officeNumber: '12A'
+  },
+  Engineer {
+    name: 'Engineer 1',
+    id: '110',
+    email: 'engineer1@email.com',
+    gitHub: 'engineer1'
+  },
+  Engineer {
+    name: 'Engineer 2',
+    id: '110',
+    email: 'engineer2@email.com',
+    gitHub: 'engineer2'
+  },
+  Engineer {
+    name: 'Engineer 3',
+    id: '112',
+    email: 'engineer3@email.com',
+    gitHub: 'engineer3'
+  },
+  Intern {
+    name: 'Intern 1',
+    id: '1001',
+    email: 'intern1@email.com',
+    school: 'University of Texas'
+  },
+  Intern {
+    name: 'Intern 2',
+    id: '1002',
+    email: 'intern2@email.com',
+    school: 'Rice University'
+  }
+]
